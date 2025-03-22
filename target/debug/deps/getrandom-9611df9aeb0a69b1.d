@@ -1,0 +1,11 @@
+/home/davi/Documents/Rust-Programas/dungeon-crawler/target/debug/deps/libgetrandom-9611df9aeb0a69b1.rmeta: /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/lib.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/error.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util_libc.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/use_file.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/lazy.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/linux_android_with_fallback.rs
+
+/home/davi/Documents/Rust-Programas/dungeon-crawler/target/debug/deps/getrandom-9611df9aeb0a69b1.d: /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/lib.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/error.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util_libc.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/use_file.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/lazy.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/linux_android_with_fallback.rs
+
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/lib.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/error.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util_libc.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/use_file.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/lazy.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/linux_android_with_fallback.rs:

@@ -1,0 +1,12 @@
+/home/davi/Documents/Rust-Programas/dungeon-crawler/target/debug/deps/libbracket_color-661c7a2f3cbcc5ea.rmeta: /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/lib.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/color_pair.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/hsv.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/lerpit.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/named.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/palette.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/rgb.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/rgba.rs
+
+/home/davi/Documents/Rust-Programas/dungeon-crawler/target/debug/deps/bracket_color-661c7a2f3cbcc5ea.d: /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/lib.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/color_pair.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/hsv.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/lerpit.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/named.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/palette.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/rgb.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/rgba.rs
+
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/lib.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/color_pair.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/hsv.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/lerpit.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/named.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/palette.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/rgb.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bracket-color-0.8.7/src/rgba.rs:

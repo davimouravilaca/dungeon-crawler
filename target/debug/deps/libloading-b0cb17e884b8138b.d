@@ -1,0 +1,12 @@
+/home/davi/Documents/Rust-Programas/dungeon-crawler/target/debug/deps/liblibloading-b0cb17e884b8138b.rmeta: /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/lib.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/changelog.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/mod.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/unix/mod.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/unix/consts.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/util.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/error.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/safe.rs
+
+/home/davi/Documents/Rust-Programas/dungeon-crawler/target/debug/deps/libloading-b0cb17e884b8138b.d: /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/lib.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/changelog.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/mod.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/unix/mod.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/unix/consts.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/util.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/error.rs /home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/safe.rs
+
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/lib.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/changelog.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/mod.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/unix/mod.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/unix/consts.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/util.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/error.rs:
+/home/davi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/safe.rs:
