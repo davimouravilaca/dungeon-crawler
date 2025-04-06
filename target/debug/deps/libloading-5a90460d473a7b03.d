@@ -1,0 +1,11 @@
+C:\Users\davi\Documents\rust-projects\dungeon-crawler\target\debug\deps\liblibloading-5a90460d473a7b03.rmeta: C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\lib.rs C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\changelog.rs C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\mod.rs C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\windows\mod.rs C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\util.rs C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\error.rs C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\safe.rs
+
+C:\Users\davi\Documents\rust-projects\dungeon-crawler\target\debug\deps\libloading-5a90460d473a7b03.d: C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\lib.rs C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\changelog.rs C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\mod.rs C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\windows\mod.rs C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\util.rs C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\error.rs C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\safe.rs
+
+C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\lib.rs:
+C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\changelog.rs:
+C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\mod.rs:
+C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\windows\mod.rs:
+C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\util.rs:
+C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\error.rs:
+C:\Users\davi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\safe.rs:
