@@ -5,5 +5,7 @@ pub enum TileType {
 }
 
 pub struct Map {
-    
+    pub tiles: Vec<TileType>,
 }
+
+impl 
