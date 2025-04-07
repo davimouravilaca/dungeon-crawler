@@ -1,1 +1,1 @@
-C:\Users\davi\Documents\rust-projects\dungeon-crawler\target\debug\dungeon-crawler.exe: C:\Users\davi\Documents\rust-projects\dungeon-crawler\src\main.rs C:\Users\davi\Documents\rust-projects\dungeon-crawler\src\map.rs
+C:\Users\davi\Documents\rust-projects\dungeon-crawler\target\debug\dungeon-crawler.exe: C:\Users\davi\Documents\rust-projects\dungeon-crawler\src\main.rs C:\Users\davi\Documents\rust-projects\dungeon-crawler\src\map.rs C:\Users\davi\Documents\rust-projects\dungeon-crawler\src\player.rs
