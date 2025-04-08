@@ -7,6 +7,7 @@ pub struct MapBuilder {
     pub rooms : Vec<Rect>,
     pub player_start : Point,
 }
+
 impl MapBuilder {
     fn fill(&mut self, tile : TileType) {
         self.map.tiles
@@ -38,11 +39,20 @@ impl MapBuilder {
                                 self.map.tiles[idx] = TileType::Floor;
                                }
                 });
-
                 self.rooms.push(room);
             }
         }
     }
+
+    fn apply_vertical_tunnel(&mut self, y1:i32, y2:i32, x:i32) {
+        use std::cmp::{min, max};
+        for y in min(y1, y2) ..= max(y1, y2) {
+            if let Some(idx) = self.map.try_idx(Point::new(x, y)) {
+                self.map.tiles[idx as usize] = TileType::Floor;
+            }
+        }
+    }
+    //TODO horizontal tunnel
         
 }
 
