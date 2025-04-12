@@ -2,6 +2,10 @@ mod map;
 mod map_builder;
 mod player;
 
+// limit viewport
+pub const DISPLAY_WIDTH: i32 = SCREEN_WIDTH / 2;
+pub const DISPLAY_HEIGHT: i32 = SCREEN_HEIGHT / 2;
+
 mod prelude {
     pub use bracket_lib::prelude::*;
     pub const SCREEN_WIDTH: i32 = 80;
@@ -41,8 +45,14 @@ impl GameState for State {
 
 fn main() -> BError {
     let context = BTermBuilder::simple80x50()
-    .with_title("Dungeon Crawler")
-    .with_fps_cap(30.0)
+        .with_title("Dungeon Crawler")
+        .with_fps_cap(30.0)
+        .with_dimensions(DISPLAY_WIDTH, DISPLAY_HEIGHT)
+        .with_tile_dimensions(32, 32) //tile resolution based on size of each char on fontfile
+        .with_resource_path("resources/")
+        .with_font("dungeonfont.png", 32, 32)
+        .with_simple_console(DISPLAY_WIDTH, DISPLAY_HEIGHT, "dungeonfont.png") // base layer
+        .with_simple_console_no_bg(DISPLAY_WIDTH, DISPLAY_HEIGHT, "dungeonfont.png") // uphold layer with transparency
     .build()?;
 
     main_loop(context, State::new())

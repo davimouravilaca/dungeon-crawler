@@ -75,6 +75,7 @@ impl MapBuilder {
         }
     }
 
+    //TODO BUG algumas salas não estão sendo conectadas por corredores
     fn build_corridors(&mut self, rng: &mut RandomNumberGenerator) {
         let mut rooms = self.rooms.clone();
         rooms.sort_by(|a, b| a.center().x.cmp(&b.center().x));
