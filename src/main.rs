@@ -3,10 +3,12 @@ mod map_builder;
 mod camera;
 mod components;
 mod spawner;
+mod systems;
 
 mod prelude {
     pub use bracket_lib::prelude::*;
 
+    pub use crate::systems::*;
     pub use legion::*;
     pub use legion::world::SubWorld;
     pub use legion::systems::CommandBuffer;
