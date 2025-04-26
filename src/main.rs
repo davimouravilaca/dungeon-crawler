@@ -42,7 +42,8 @@ impl State {
         resources.insert(Camera::new(map_builder.player_start));
         Self {
             ecs,
-            systems: build_scheduler() 
+            systems: build_scheduler(),
+            resources
         }   
     }
 }
@@ -54,10 +55,10 @@ impl GameState for State {
         ctx.cls();
         ctx.set_active_console(1);
         ctx.cls();
-        // TODO: Execute Systems
         self.resources.insert(ctx. key);
         self.systems.execute(&mut self.ecs, &mut self.resources);
         // TODO: Render Draw Buffer
+        render_draw_buffer(ctx).expect("Render error");
     }
     
 }
